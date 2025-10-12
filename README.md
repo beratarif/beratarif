@@ -19,8 +19,8 @@ Kod yazmak benim için sadece bir iş değil, bir yaşam biçimi.
 
 🚀 **Şu anda**
 - Yeni web projeleri geliştiriyorum.  
-- Backend tarafında veritabanı optimizasyonlarıyla uğraşıyorum.  
-- Siber güvenlik pratikleriyle sistemleri daha güvenli hale getirmeye çalışıyorum.  
+- C++ ile işe yarayabilecek terminal Projeleri geliştirmekteyim
+- PHP öğrenerek Veritaban bağlantılarını nasıl kuruldugu üzerinde çalışmalar yapmaktayım
 
 ---
 
