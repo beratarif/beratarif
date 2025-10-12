@@ -5,8 +5,8 @@
 
 🪶 **Hakkımda**  
 Merhaba! Ben **Berat**, yazılıma küçük yaşta merak salmış bir geliştiriciyim.  
-Web tasarım, backend geliştirme ve siber güvenlik alanlarında kendimi sürekli geliştiriyorum.  
-Kod yazmak benim için sadece bir iş değil — bir tutku.
+Web tasarım, backend geliştirme, OOP, System Programign ve siber güvenlik alanlarında kendimi sürekli geliştiriyorum.  
+Kod yazmak benim için sadece bir iş değil bir tutku.
 
 ---
 
