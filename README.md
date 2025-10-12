@@ -33,8 +33,9 @@ Kod yazmak benim için sadece bir iş değil, bir yaşam biçimi.
 ---
 
 🌐 **Bağlantılarım**
-[![Portfolio](https://img.shields.io/badge/🌍%20Website-CodeProo.netlify.app-blue?style=flat-square)](https://codeproo.netlify.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-beratarifgonul-black?style=flat-square&logo=github)](https://github.com/beratarifgonul)
+[![Portfolio](https://img.shields.io/badge/🌍%20Website-codeproo.netlify.app-blue?style=flat-square)](https://codeproo.netlify.app)  
+[![Portfolio](https://img.shields.io/badge/🌍%20Website-nyxion.netlify.app-blue?style=flat-square)](https://codeproo.netlify.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-beratarif-black?style=flat-square&logo=github)](https://github.com/beratarifgonul)
 
 ---
 
