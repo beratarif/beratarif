@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Berat Arif Gönül  
-💻 Full Stack Developer | 🧠 Cybersecurity Enthusiast  
+💻 Frontend Developer | 🧠 Cybersecurity Enthusiast  
 
 ---
 
@@ -26,8 +26,8 @@ Kod yazmak benim için sadece bir iş değil, bir yaşam biçimi.
 
 📊 **GitHub İstatistikleri**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratarifgonul&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=beratarifgonul&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beratarif&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=beratarif&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
