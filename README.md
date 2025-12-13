@@ -64,6 +64,6 @@
 
 <br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/BERAT_GITHUB_USERNAME/BERAT_GITHUB_USERNAME/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/beratarif/beratarif/output/snake.svg" alt="Snake animation"/>
 
 ###
