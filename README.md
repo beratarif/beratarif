@@ -42,7 +42,7 @@ Burada, frontend ağırlıklı web projelerimi, denemelerimi ve kendimi gelişti
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beratarif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Benim%20%C4%B0statisti%C4%9Fim" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=beratarif&theme=dracula&cache_seconds=1800">
+  
 
   <img src="https://streak-stats.demolab.com?user=beratarif&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=beratarif&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
