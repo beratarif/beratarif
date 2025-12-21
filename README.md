@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋I'm Berat Arif Gönül</h1>
 
-### Front-End Web Developer
+### Ben Berat Arif Gönül, web geliştirme tarafında kendini sürekli geliştiren bir yazılım öğrencisiyim.
+Burada, frontend ağırlıklı web projelerimi, denemelerimi ve kendimi geliştirmek için yaptığım çalışmaları paylaşıyorum.
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
