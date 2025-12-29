@@ -69,7 +69,6 @@
   <ul>
     <li>GitHub’da gerçek projeler ve düzenli commit geçmişi</li>
     <li>Kendi portfolyo ve demo projelerimi geliştirmek</li>
-    <li>Full-stack tarafına doğru sağlam adımlar atmak</li>
   </ul>
 </p>
 
