@@ -1,47 +1,49 @@
-# 👋 Selam, ben Berat Arif Gönül
+# Hello 👋, I'm Berat Arif Gönül
+### Frontend Web Developer
 
-Frontend ağırlıklı çalışan ve modern web teknolojilerine ilgi duyan bir geliştiriciyim. Yaklaşık 2 yıldır web geliştirme alanında projeler üretiyor, kullanıcı deneyimi ve performansı ön planda tutan arayüzler geliştiriyorum.
+• 2+ years of experience in web development 
 
-## 🚀 Hakkımda
+• Building modern, responsive and user-focused interfaces
 
-* 💻 Yaklaşık 2 yıldır aktif olarak yazılım geliştiriyorum
-* 🌐 Frontend Development alanına odaklanıyorum
-* 🎨 Modern, responsive ve kullanıcı dostu arayüzler geliştiriyorum
-* ⚡ Performans ve temiz kod prensiplerine önem veriyorum
-* 🔌 PHP & MySQL ile backend tarafında projeler geliştiriyorum
-* 📚 Sürekli yeni teknolojiler öğrenerek kendimi geliştirmeye devam ediyorum
+• Working mainly with HTML, CSS, JavaScript and Vue.js
 
-## 🧠 Şu An Öğrendiklerim
+• Experienced with PHP & MySQL for backend development
 
-* Vue.js
-* Modern JavaScript (ES6+)
-* Responsive Web Design
-* API Entegrasyonları
-* PHP & MySQL
+• Passionate about clean code, performance and UI/UX
 
-## 🎯 Hedeflerim
+• Currently improving my Full-Stack development skills
 
-* Full-Stack Web Developer olmak
-* Açık kaynak projelere katkıda bulunmak
-* GitHub profilimi gerçek projelerle güçlendirmek
-* Ölçeklenebilir ve modern web uygulamaları geliştirmek
+🌐 Portfolio: beratarif.vercel.app
 
-## 🛠️ Teknolojiler
+## Skills
 
-### Frontend
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+</p>
 
-HTML • CSS • JavaScript • Vue.js • Bootstrap • Tailwind CSS • Sass
+## GitHub Stats
 
-### Backend
+<img src="https://github-readme-stats.vercel.app/api?username=beratarif&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-PHP • MySQL • Node.js
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratarif&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
-### Araçlar
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beratarif&theme=null" alt="GitHub Streak" />
 
-VS Code • Git • GitHub
+<img src="https://profile-counter.glitch.me/beratarif/count.svg?" alt="visitors count" />
 
-## 📈 GitHub İstatistikleri
+## GitHub Trophies
 
-Kod yazmayı sadece öğrenmek için değil, gerçek projeler üretmek için seviyorum. Bu profilde kişisel çalışmalarımı, deneysel projelerimi ve geliştirdiğim web uygulamalarını bulabilirsiniz.
+<img src="https://github-profile-trophy.vercel.app/?username=beratarif" alt="trophy" />
 
-⭐ Profilime göz atmayı unutmayın!
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=beratarif&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+
