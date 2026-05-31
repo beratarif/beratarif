@@ -31,11 +31,11 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=beratarif&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=beratarif&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratarif&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratarif&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beratarif&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beratarif&theme=dark" alt="GitHub Streak" />
 
 <img src="https://profile-counter.glitch.me/beratarif/count.svg?" alt="visitors count" />
 
