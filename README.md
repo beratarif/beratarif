@@ -52,7 +52,7 @@
 
 <p align="left">
   <ul>
-    <li>🌐 <b>Frontend Development</b> (HTML, CSS, JavaScript)</li>
+    <li>🌐 <b>Frontend Development</b></li>
     <li>🎨 Modern, responsive ve animasyonlu arayüzler</li>
     <li>⚡ Performans, kullanıcı deneyimi ve temiz yapı</li>
     <li>🔌 Backend tarafında <b>PHP & MySQL </b> (gerektiğinde)</li>
@@ -97,6 +97,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
