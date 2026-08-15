@@ -1,12 +1,12 @@
 # Hello 👋, I'm Berat Arif Gönül
 ### Software Developer
 
-• 2+ years of experience in web development
-• Building desktop applications and automation tools with C++
-• Exploring Win32 API and Windows system programming
-• Experienced with HTML, CSS, JavaScript, Vue.js, PHP & MySQL
-• Passionate about software architecture, clean code and performance
-• Currently focusing on C++, Windows development and system programming
+• 2+ years of experience in web development \
+• Building desktop applications and automation tools with C++ \
+• Exploring Win32 API and Windows system programming \
+• Experienced with HTML, CSS, JavaScript, Vue.js, PHP & MySQL \
+• Passionate about software architecture, clean code and performance \
+• Currently focusing on C++, Windows development and system programming \
 
 🌐 Portfolio: beratarif.vercel.app
 
