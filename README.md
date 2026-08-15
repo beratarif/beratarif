@@ -1,5 +1,5 @@
 # Hello 👋, I'm Berat Arif Gönül
-### Software Developer | Web Developer
+### Software Developer
 
 • 2+ years of experience in web development \
 • Building desktop applications and automation tools with C++ \
@@ -7,8 +7,10 @@
 • Experienced with HTML, CSS, JavaScript, Vue.js, PHP & MySQL \
 • Passionate about software architecture, clean code and performance \
 • Currently focusing on C++, Windows development and system programming \
+• Interested in desktop applications, system programming and modern web development.
 
 🌐 Portfolio: beratarif.vercel.app
+
 
 ## Skills
 
