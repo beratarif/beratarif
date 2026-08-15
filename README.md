@@ -1,5 +1,5 @@
 # Hello 👋, I'm Berat Arif Gönül
-### Software Developer
+### Software Developer | Web Developer
 
 • 2+ years of experience in web development \
 • Building desktop applications and automation tools with C++ \
